@@ -29,6 +29,11 @@ body {
   color: #002E62;
 }
 
+@media (max-width:330px) {
+    .name-holder {
+        font-size: 16px;
+    }
+}
 
 /*Primary navigation bar*/
 
