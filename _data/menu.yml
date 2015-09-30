@@ -8,3 +8,7 @@ mainmenu:
     url: "/about/"
     text: "About Me"
     icon_class: "fa-info-circle"
+  slamaru:
+    url: "/slamaru/"
+    text: "My Subaru WRX"
+    icon_class: "fa-car"

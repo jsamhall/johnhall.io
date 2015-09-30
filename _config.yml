@@ -1,8 +1,8 @@
 # Site settings
-title: Site Title
-email: somename@somedomain.com
-description: "Site Description"
-logo_location: "http://placehold.it/100x100&text=LOGO"
+title: johnhall.io - programming, cars, etc.
+email: john@johnhall.io
+description: "The personal blog of John Hall - Programmer, Car Enthusiast, Musician, Vermonter."
+logo_location: "/assets/img/logo.png"
 
 #baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "" # the base hostname & protocol for your site
@@ -12,7 +12,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-highlighter: pygments
+highlighter: rouge
 
 #Other Global Configuration
 exclude: ['README.md']

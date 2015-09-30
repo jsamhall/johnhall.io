@@ -69,6 +69,12 @@ body {
 .blog-short .excerpt{
   min-height:100px;
 }
+
+.blog-short img {
+    width: 100px;
+    height: 100px;
+}
+
 .margin10{margin-bottom:10px; margin-right:10px;}
 
 
