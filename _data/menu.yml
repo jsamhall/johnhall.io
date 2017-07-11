@@ -8,6 +8,10 @@ mainmenu:
     url: "/about/"
     text: "About Me"
     icon_class: "fa-info-circle"
+  github:
+    url: "https://github.com/jsamhall"
+    text: "GitHub"
+    icon_class: "fa-github"
   slamaru:
     url: "/slamaru/"
     text: "My Subaru WRX"
