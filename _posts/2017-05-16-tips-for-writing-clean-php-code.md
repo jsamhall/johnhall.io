@@ -3,6 +3,7 @@ layout: post
 tags: php coding tips clean-code
 date: 2017-05-16 12:28
 title: Tips for Writing Clean PHP Code
+thumbnail: /assets/img/php-logo-square.png
 published: true
 comments: true
 ---

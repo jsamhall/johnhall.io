@@ -3,6 +3,7 @@ layout: post
 tags: zf1 zend-framework-1 dependency-injection ioc
 date: 2017-06-25 12:28
 title: ZF1 Controller Dependency Injection
+thumbnail: /assets/img/zend-framework.jpg
 published: true
 comments: true
 ---
